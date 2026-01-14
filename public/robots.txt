@@ -1,0 +1,13 @@
+# Robots.txt for Saurabh Studio
+
+User-agent: *
+Allow: /
+
+# Hide developer page from search engines
+Disallow: /developer
+Disallow: /dev-e2k
+
+# Standard exclusions
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
