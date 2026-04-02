@@ -39,6 +39,7 @@ const DEVELOPER = {
   avatar: "/dev.png", // Add your photo
   social: {
     youtube: "https://youtube.com/@DevArea",
+    github: "https://github.com/Ekanshps",
     linkedin: "https://linkedin.com/in/ekanshsinghyt/",
     instagram: "https://instagram.com/ekansh.pratap/",
     twitter: "https://x.com/Ekansh_p_singh",
